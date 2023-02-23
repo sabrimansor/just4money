@@ -1,2 +1,2 @@
-# just4money
-This repo is to allow you to donate to me (: You're welcome!
+# Support Me!
+Providing an avenue for people to give donations to motivate me (:
